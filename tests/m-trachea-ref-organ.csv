@@ -1,0 +1,5 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHMTrachea,http://purl.org/ccf/latest/ccf.owl#VHMTrachea,UBERON:0003126,UBERON:0003604,Trachea,trachea cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMTrachea,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_trachea,UBERON:0003126,UBERON:0003604,trachea,trachea cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMTrachea,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_tracheal_cartilage,UBERON:0003604,UBERON:0003126,trachea cartilage,trachea
+http://purl.org/ccf/latest/ccf.owl#VHMTrachea,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_carina,UBERON:0006679,UBERON:0003126,carina of trachea,trachea

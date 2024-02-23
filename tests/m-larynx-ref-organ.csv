@@ -1,0 +1,11 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMLarynx,UBERON:0001737,UBERON:0002375,Larynx,cricoid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMLarynx,UBERON:0001737,UBERON:0001738,Larynx,thyroid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_laryngeal_cartilage,UBERON:0001739,UBERON:0002375,laryngeal cartilage,cricoid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_laryngeal_cartilage,UBERON:0001739,UBERON:0001738,laryngeal cartilage,thyroid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_arytenoid_cartilage,UBERON:0001740,UBERON:0002375,arytenoid cartilage,cricoid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_arytenoid_cartilage,UBERON:0001740,UBERON:0001738,arytenoid cartilage,thyroid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_epiglottic_cartilage,UBERON:0001742,UBERON:0002375,epiglottic cartilage,cricoid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_epiglottic_cartilage,UBERON:0001742,UBERON:0001738,epiglottic cartilage,thyroid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_cricoid_cartilage,UBERON:0002375,UBERON:0001738,cricoid cartilage,thyroid cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMLarynx,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_thyroid_cartilage,UBERON:0001738,UBERON:0002375,thyroid cartilage,cricoid cartilage

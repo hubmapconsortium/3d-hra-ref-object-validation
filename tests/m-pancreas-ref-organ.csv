@@ -1,0 +1,6 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_body_of_pancreas,UBERON:0001150,UBERON:0010373,body of pancreas,uncinate process of pancreas
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_body_of_pancreas,UBERON:0001150,UBERON:0001069,body of pancreas,head of pancreas
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_tail_of_pancreas,UBERON:0001151,UBERON:0001150,tail of pancreas,body of pancreas
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_head_of_pancreas,UBERON:0001069,UBERON:0010373,head of pancreas,uncinate process of pancreas
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_uncinate_process_of_the_pancreas,UBERON:0010373,UBERON:0001069,uncinate process of pancreas,head of pancreas

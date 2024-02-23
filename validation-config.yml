@@ -2,16 +2,69 @@ relationships:
   sub_class_of: rdfs:subClassOf
   part_of: BFO:0000050
   connected_to: RO:0001025
+  connecting_branch_of: RO:0002252
+  has_part: BFO:0000051
+  continuous_with: RO:0002150
+  overlaps: RO:0002131
 
 data:
-  - name: Kidney
-    version: v1.4
-    sheet_id: 19B_iDwpVTzLl6JLUl7g943p8b14YxYRwOshm-PLbIwk
-    gid: 949267305
-  - name: Eye
-    version: v1.4_DRAFT
-    sheet_id: 1tNNPZXL0ycw5gNksDUKHZJpRkKgRdVAUh9AZ6ohpgOA
-    gid: 695483621
-  - name: 3D-Reference-Organ
+  - name: f-large-intestine-3d-ref-organ
     version: v1.1
-    filename: tests/ref-organ-relations.csv
+    filename: tests/f-large-intestine-ref-organ.csv
+  - name: f-main-bronchus-3d-ref-organ
+    version: v1.1
+    filename: tests/f-main-bronchus-ref-organ.csv
+  - name: f-uterus-3d-ref-organ
+    version: v1.1
+    filename: tests/f-uterus-ref-organ.csv
+  - name: m-brain-3d-ref-organ
+    version: v1.1
+    filename: tests/m-brain-ref-organ.csv
+  - name: m-colon-3d-ref-organ
+    version: v1.1
+    filename: tests/m-colon-ref-organ.csv
+  - name: m-heart-3d-ref-organ
+    version: v1.1
+    filename: tests/m-heart-ref-organ.csv
+  - name: m-larynx-3d-ref-organ
+    version: v1.1
+    filename: tests/m-larynx-ref-organ.csv
+  - name: m-left-kidney-3d-ref-organ
+    version: v1.1
+    filename: tests/m-left-kidney-ref-organ.csv
+  - name: m-liver-3d-ref-organ
+    version: v1.1
+    filename: tests/m-liver-ref-organ.csv
+  - name: m-lung-3d-ref-organ
+    version: v1.1
+    filename: tests/m-lung-ref-organ.csv
+  - name: m-lymph-node-3d-ref-organ
+    version: v1.1
+    filename: tests/m-lymph-node-ref-organ.csv
+  - name: m-pancreas-3d-ref-organ
+    version: v1.1
+    filename: tests/m-pancreas-ref-organ.csv
+  - name: m-pelvis-3d-ref-organ
+    version: v1.1
+    filename: tests/m-pelvis-ref-organ.csv
+  - name: m-prostate-3d-ref-organ
+    version: v1.1
+    filename: tests/m-prostate-ref-organ.csv
+  - name: m-right-kidney-3d-ref-organ
+    version: v1.1
+    filename: tests/m-right-kidney-ref-organ.csv
+  - name: m-small-intestine-3d-ref-organ
+    version: v1.1
+    filename: tests/m-small-intestine-ref-organ.csv
+  - name: m-spinal-cord-3d-ref-organ
+    version: v1.1
+    filename: tests/m-spinal-cord-ref-organ.csv
+  - name: m-thymus-3d-ref-organ
+    version: v1.1
+    filename: tests/m-thymus-ref-organ.csv
+  - name: m-trachea-3d-ref-organ
+    version: v1.1
+    filename: tests/m-trachea-ref-organ.csv
+  - name: m-urinary-bladder-3d-ref-organ
+    version: v1.1
+    filename: tests/m-urinary-bladder-ref-organ.csv

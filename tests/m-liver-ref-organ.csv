@@ -1,0 +1,51 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMLiver,UBERON:0002107,UBERON:0001149,Liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bare_area_of_liver,UBERON:0001149,UBERON:0001117,bare area of liver,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bare_area_of_liver,UBERON:0001149,UBERON:0016479,bare area of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bare_area_of_liver,UBERON:0001149,UBERON:0013138,bare area of liver,coronary ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_liver_capsule,UBERON:0016479,UBERON:0001149,capsule of the liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_caudate_lobe_of_liver,UBERON:0001117,UBERON:0016479,caudate lobe of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_caudate_lobe_of_liver,UBERON:0001117,UBERON:0001149,caudate lobe of liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_caudate_lobe_of_liver,UBERON:0001117,UBERON:0013138,caudate lobe of liver,coronary ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_right_lobe_of_liver,UBERON:0001114,UBERON:0016479,right lobe of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lobe_of_liver,UBERON:0001115,UBERON:0001117,left lobe of liver,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lobe_of_liver,UBERON:0001115,UBERON:0016479,left lobe of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lobe_of_liver,UBERON:0001115,UBERON:0001149,left lobe of liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lobe_of_liver,UBERON:0001115,UBERON:0001116,left lobe of liver,quadrate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lobe_of_liver,UBERON:0001115,UBERON:0013138,left lobe of liver,coronary ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0001117,liver left lateral lobe,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0016479,liver left lateral lobe,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0006587,liver left lateral lobe,ligamentum venosum
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0001149,liver left lateral lobe,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0012472,liver left lateral lobe,hepatoduodenal ligament
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0001116,liver left lateral lobe,quadrate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_lateral_lobe,UBERON:0006727,UBERON:0013138,liver left lateral lobe,coronary ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_medial_lobe,UBERON:0006728,UBERON:0016479,liver left medial lobe,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_medial_lobe,UBERON:0006728,UBERON:0001149,liver left medial lobe,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_medial_lobe,UBERON:0006728,UBERON:0012472,liver left medial lobe,hepatoduodenal ligament
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_medial_lobe,UBERON:0006728,UBERON:0001116,liver left medial lobe,quadrate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_quadrate_lobe_of_liver,UBERON:0001116,UBERON:0016479,quadrate lobe of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_quadrate_lobe_of_liver,UBERON:0001116,UBERON:0001149,quadrate lobe of liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_quadrate_lobe_of_liver,UBERON:0001116,UBERON:0012472,quadrate lobe of liver,hepatoduodenal ligament
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hepataduodenal_ligament,UBERON:0012472,UBERON:0001117,hepatoduodenal ligament,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hepataduodenal_ligament,UBERON:0012472,UBERON:0016479,hepatoduodenal ligament,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hepataduodenal_ligament,UBERON:0012472,UBERON:0001149,hepatoduodenal ligament,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ligamentum_venosum,UBERON:0006587,UBERON:0001117,ligamentum venosum,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ligamentum_venosum,UBERON:0006587,UBERON:0016479,ligamentum venosum,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ligamentum_venosum,UBERON:0006587,UBERON:0001149,ligamentum venosum,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ligamentum_venosum,UBERON:0006587,UBERON:0012472,ligamentum venosum,hepatoduodenal ligament
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ligamentum_venosum,UBERON:0006587,UBERON:0013138,ligamentum venosum,coronary ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_round_ligament_of_liver,UBERON:0006588,UBERON:0001149,round ligament of liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_triangular_ligament_of_liver,UBERON:0035444,UBERON:0001117,triangular ligament of liver,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_triangular_ligament_of_liver,UBERON:0035444,UBERON:0016479,triangular ligament of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_triangular_ligament_of_liver,UBERON:0035444,UBERON:0006587,triangular ligament of liver,ligamentum venosum
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_triangular_ligament_of_liver,UBERON:0035444,UBERON:0001149,triangular ligament of liver,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_triangular_ligament_of_liver,UBERON:0035444,UBERON:0013138,triangular ligament of liver,coronary ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_falciform_ligament,UBERON:0001247,UBERON:0001117,falciform ligament,caudate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_falciform_ligament,UBERON:0001247,UBERON:0016479,falciform ligament,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_falciform_ligament,UBERON:0001247,UBERON:0006588,falciform ligament,round ligament of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_falciform_ligament,UBERON:0001247,UBERON:0001149,falciform ligament,bare area of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_falciform_ligament,UBERON:0001247,UBERON:0012472,falciform ligament,hepatoduodenal ligament
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_falciform_ligament,UBERON:0001247,UBERON:0001116,falciform ligament,quadrate lobe of liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_coronary_ligament_of_liver,UBERON:0013138,UBERON:0016479,coronary ligament of liver,capsule of the liver
+http://purl.org/ccf/latest/ccf.owl#VHMLiver,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_coronary_ligament_of_liver,UBERON:0013138,UBERON:0001149,coronary ligament of liver,bare area of liver
