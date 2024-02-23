@@ -1,0 +1,17 @@
+relationships:
+  sub_class_of: rdfs:subClassOf
+  part_of: BFO:0000050
+  connected_to: RO:0001025
+
+data:
+  - name: Kidney
+    version: v1.4
+    sheet_id: 19B_iDwpVTzLl6JLUl7g943p8b14YxYRwOshm-PLbIwk
+    gid: 949267305
+  - name: Eye
+    version: v1.4_DRAFT
+    sheet_id: 1tNNPZXL0ycw5gNksDUKHZJpRkKgRdVAUh9AZ6ohpgOA
+    gid: 695483621
+  - name: 3D-Reference-Organ
+    version: v1.1
+    filename: tests/ref-organ-relations.csv
