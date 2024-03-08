@@ -1,0 +1,13 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_hepatic_flexure_of_colon	UBERON:0022277	UBERON:0001156	hepatic flexure of colon	ascending colon
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_transverse_colon	UBERON:0001157	UBERON:0001153	transverse colon	caecum
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_descending_colon	UBERON:0001158	UBERON:0001052	descending colon	rectum
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_descending_colon	UBERON:0001158	UBERON:0001159	descending colon	sigmoid colon
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ileocecal_valve	UBERON:0000569	UBERON:0001153	ileocecal valve	caecum
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ileocecal_valve	UBERON:0000569	UBERON:0001156	ileocecal valve	ascending colon
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_transverse_colon	UBERON:0001157	UBERON:0001153	transverse colon	caecum
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_descending_colon	UBERON:0001158	UBERON:0001052	descending colon	rectum
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ileocecal_valve	UBERON:0000569	UBERON:0001153	ileocecal valve	caecum
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ileocecal_valve	UBERON:0000569	UBERON:0001156	ileocecal valve	ascending colon
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_splenic_flexure_of_colon	UBERON:0022276	UBERON:0001158	splenic flexure of colon	descending colon
+http://purl.org/ccf/latest/ccf.owl#VHFLargeIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_splenic_flexure_of_colon	UBERON:0022276	UBERON:0001157	splenic flexure of colon	transverse colon

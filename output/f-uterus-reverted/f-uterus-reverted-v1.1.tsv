@@ -1,0 +1,5 @@
+user_slabel	user_olabel	s	o	slabel	olabel
+http://purl.org/ccf/latest/ccf.owl#VHFUterus	http://purl.org/ccf/latest/ccf.owl#VHFUterus	UBERON:0000995	UBERON:0009853	Uterus	body of uterus
+http://purl.org/ccf/latest/ccf.owl#VHFUterus	http://purl.org/ccf/latest/ccf.owl#VHFUterus	UBERON:0000995	UBERON:0000002	Uterus	uterine cervix
+http://purl.org/ccf/latest/ccf.owl#VHFUterus	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_body_of_uterus	UBERON:0009853	UBERON:0000002	body of uterus	uterine cervix
+http://purl.org/ccf/latest/ccf.owl#VHFUterus	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_cervix	UBERON:0000002	UBERON:0013760	uterine cervix	external cervical os

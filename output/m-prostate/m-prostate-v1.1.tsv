@@ -1,0 +1,30 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_male_genital_duct	UBERON:0006947	UBERON:8410027	male genital duct	central zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_male_genital_duct	UBERON:0006947	UBERON:8410026	male genital duct	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_seminal_vesicle	UBERON:0000998	UBERON:8410026	right deferent duct	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ejaculatory_duct	UBERON:0000999	UBERON:0035441	ejaculatory duct	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ejaculatory_duct	UBERON:0000999	UBERON:8410027	ejaculatory duct	central zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ejaculatory_duct	UBERON:0000999	UBERON:8410026	ejaculatory duct	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_prostatic_utricle	UBERON:0011199	UBERON:0035441	prostatic utricle	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_prostatic_utricle	UBERON:0011199	UBERON:0000999	prostatic utricle	ejaculatory duct
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_prostatic_utricle	UBERON:0011199	UBERON:8410026	prostatic utricle	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_prostate_duct_R	UBERON:0002485	UBERON:0035441	prostate duct	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_prostate_duct_R	UBERON:0002485	UBERON:8410026	prostate duct	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_apex_of_prostate	UBERON:0035441	UBERON:8410026	apex of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_base_of_prostate	UBERON:0035331	UBERON:0035441	base of prostate	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_base_of_prostate	UBERON:0035331	UBERON:8410025	base of prostate	transition zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_base_of_prostate	UBERON:0035331	UBERON:8410027	base of prostate	central zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_base_of_prostate	UBERON:0035331	UBERON:8410026	base of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_peripheral_zone_of_prostate_L	UBERON:8410026	UBERON:0035441	peripheral zone of prostate	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone__of_prostate_L	UBERON:8410025	UBERON:0035441	transition zone of prostate	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone__of_prostate_L	UBERON:8410025	UBERON:8410027	transition zone of prostate	central zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone__of_prostate_L	UBERON:8410025	UBERON:8410026	transition zone of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone__of_prostate_L	UBERON:8410025	UBERON:8410027	transition zone of prostate	central zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone__of_prostate_L	UBERON:8410025	UBERON:8410026	transition zone of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone_of_prostate_R	UBERON:8410025	UBERON:0035441	transition zone of prostate	apex of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone_of_prostate_R	UBERON:8410025	UBERON:8410027	transition zone of prostate	central zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transition_zone_of_prostate_R	UBERON:8410025	UBERON:8410026	transition zone of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_central_zone_of_prostate_R	UBERON:8410027	UBERON:8410026	central zone of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_central_zone_of_prostate_L	UBERON:8410027	UBERON:0000999	central zone of prostate	ejaculatory duct
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_central_zone_of_prostate_L	UBERON:8410027	UBERON:8410026	central zone of prostate	peripheral zone of prostate
+http://purl.org/ccf/latest/ccf.owl#VHMProstate	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_central_zone_of_prostate_L	UBERON:8410027	UBERON:8410026	central zone of prostate	peripheral zone of prostate

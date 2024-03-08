@@ -1,0 +1,3 @@
+user_slabel	user_olabel	s	o	slabel	olabel
+http://purl.org/ccf/latest/ccf.owl#VHMTrachea	http://purl.org/ccf/latest/ccf.owl#VHMTrachea	UBERON:0003126	UBERON:0003604	Trachea	trachea cartilage
+http://purl.org/ccf/latest/ccf.owl#VHMTrachea	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_trachea	UBERON:0003126	UBERON:0003604	trachea	trachea cartilage

@@ -1,0 +1,696 @@
+user_slabel	user_olabel	s	o	slabel	olabel
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0002943	brain	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0002657	brain	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0014608	brain	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0004720	brain	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0002751	brain	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0006092	brain	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0002771	brain	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0006093	brain	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	UBERON:0000955	UBERON:0003023	brain	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_L	UBERON:0002812	UBERON:0002769	left cerebral hemisphere	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_L	UBERON:0002812	UBERON:0014608	left cerebral hemisphere	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_L	UBERON:0002812	UBERON:0002751	left cerebral hemisphere	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_L	UBERON:0002812	UBERON:0002771	left cerebral hemisphere	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_olfactory_nucleus_L	UBERON:0002266	UBERON:0022383	anterior olfactory nucleus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_olfactory_nucleus_L	UBERON:0002266	UBERON:0004725	anterior olfactory nucleus	piriform cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_olfactory_nucleus_L	UBERON:0002266	UBERON:0002570	anterior olfactory nucleus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_piriform_region_L	UBERON:0004725	UBERON:0022383	piriform cortex	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_L	UBERON:0008884	UBERON:0002943	left putamen	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_L	UBERON:0008884	UBERON:0002657	left putamen	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_L	UBERON:0008884	UBERON:0022268	left putamen	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_L	UBERON:0008884	UBERON:0022264	left putamen	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_L	UBERON:0008884	UBERON:0000935	left putamen	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_L	UBERON:0008884	UBERON:0023861	left putamen	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pineal_body_L	UBERON:0001905	UBERON:0001945	pineal body	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_L	UBERON:0000935	UBERON:0022264	anterior commissure	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_L	UBERON:0000935	UBERON:0002623	anterior commissure	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_L	UBERON:0000935	UBERON:0001908	anterior commissure	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_L	UBERON:0000935	UBERON:0023861	anterior commissure	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_L	UBERON:0000935	UBERON:0008884	anterior commissure	left putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002948	corpus callosum	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002038	corpus callosum	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0001946	corpus callosum	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002738	corpus callosum	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002943	corpus callosum	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002657	corpus callosum	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0001945	corpus callosum	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002623	corpus callosum	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0001947	corpus callosum	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0001908	corpus callosum	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0006092	corpus callosum	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0006093	corpus callosum	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0008884	corpus callosum	left putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0003023	corpus callosum	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_L	UBERON:0002336	UBERON:0002740	corpus callosum	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0002336	fornix of brain	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0001946	fornix of brain	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0002738	fornix of brain	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0002943	fornix of brain	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0002657	fornix of brain	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0001945	fornix of brain	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0002623	fornix of brain	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0001947	fornix of brain	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0006093	fornix of brain	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0003023	fornix of brain	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_L	UBERON:0000052	UBERON:0002740	fornix of brain	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_L	UBERON:0001908	UBERON:0002657	optic tract	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_L	UBERON:0001908	UBERON:0022264	optic tract	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_L	UBERON:0001908	UBERON:0002623	optic tract	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebellar_vermis_L	UBERON:0004720	UBERON:0002943	cerebellar vermis	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0002948	precentral gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0002769	precentral gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0002911	precentral gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0022364	precentral gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0014608	precentral gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0022268	precentral gyrus	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0002751	precentral gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0002581	precentral gyrus	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_L	UBERON:0002703	UBERON:0002771	precentral gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002336	superior frontal gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002948	superior frontal gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002769	superior frontal gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002911	superior frontal gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002702	superior frontal gyrus	middle frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002947	superior frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0014608	superior frontal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0022268	superior frontal gyrus	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0022264	superior frontal gyrus	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002581	superior frontal gyrus	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002980	superior frontal gyrus	opercular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0006092	superior frontal gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002771	superior frontal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0006093	superior frontal gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0023861	superior frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0008884	superior frontal gyrus	left putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002703	superior frontal gyrus	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_L	UBERON:0002661	UBERON:0002740	superior frontal gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002769	middle frontal gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002911	middle frontal gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002947	middle frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0014608	middle frontal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0022268	middle frontal gyrus	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002581	middle frontal gyrus	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002980	middle frontal gyrus	opercular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002771	middle frontal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0023861	middle frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_L	UBERON:0002702	UBERON:0002703	middle frontal gyrus	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002769	triangular part of inferior frontal gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002911	triangular part of inferior frontal gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002947	triangular part of inferior frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002576	triangular part of inferior frontal gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002980	triangular part of inferior frontal gyrus	opercular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002564	triangular part of inferior frontal gyrus	lateral orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002771	triangular part of inferior frontal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0023861	triangular part of inferior frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_L	UBERON:0002629	UBERON:0002703	triangular part of inferior frontal gyrus	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0002769	opercular part of inferior frontal gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0002911	opercular part of inferior frontal gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0002947	opercular part of inferior frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0022268	opercular part of inferior frontal gyrus	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0002581	opercular part of inferior frontal gyrus	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0002771	opercular part of inferior frontal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0023861	opercular part of inferior frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_L	UBERON:0002980	UBERON:0002703	opercular part of inferior frontal gyrus	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002038	gyrus rectus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0022383	gyrus rectus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002657	gyrus rectus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002623	gyrus rectus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0001947	gyrus rectus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002570	gyrus rectus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0001908	gyrus rectus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002644	gyrus rectus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002266	gyrus rectus	anterior olfactory nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_L	UBERON:0004671	UBERON:0002151	gyrus rectus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0022383	medial orbital gyrus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0004725	medial orbital gyrus	piriform cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0022264	medial orbital gyrus	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0000935	medial orbital gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0002576	medial orbital gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0002623	medial orbital gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0002771	medial orbital gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0002644	medial orbital gyrus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_L	UBERON:0002570	UBERON:0002151	medial orbital gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002769	intermediate orbital gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002576	intermediate orbital gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002564	intermediate orbital gyrus	lateral orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002769	intermediate orbital gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0022383	intermediate orbital gyrus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002751	intermediate orbital gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002576	intermediate orbital gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0002771	intermediate orbital gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_L	UBERON:0002644	UBERON:0023861	intermediate orbital gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002769	lateral orbital gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002629	lateral orbital gyrus	triangular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002947	lateral orbital gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002576	lateral orbital gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002980	lateral orbital gyrus	opercular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002771	lateral orbital gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002644	lateral orbital gyrus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0023861	lateral orbital gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_L	UBERON:0002564	UBERON:0002703	lateral orbital gyrus	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_L	UBERON:0035932	UBERON:0002336	anterior segment of paracentral lobule	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_L	UBERON:0035932	UBERON:0002581	anterior segment of paracentral lobule	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_L	UBERON:0035932	UBERON:0006093	anterior segment of paracentral lobule	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_L	UBERON:0035932	UBERON:0002703	anterior segment of paracentral lobule	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_L	UBERON:0035932	UBERON:0002740	anterior segment of paracentral lobule	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_L	UBERON:0002947	UBERON:0002769	frontal operculum	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_L	UBERON:0002947	UBERON:0002911	frontal operculum	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_L	UBERON:0002947	UBERON:0022268	frontal operculum	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_L	UBERON:0002947	UBERON:0002771	frontal operculum	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_L	UBERON:0002947	UBERON:0023861	frontal operculum	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0002948	postcentral gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0002769	postcentral gyrus	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0002911	postcentral gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0014608	postcentral gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0022268	postcentral gyrus	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0002751	postcentral gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_L	UBERON:0002581	UBERON:0002771	postcentral gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_L	UBERON:0006093	UBERON:0002948	precuneus cortex	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_L	UBERON:0006093	UBERON:0002902	precuneus cortex	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_L	UBERON:0006093	UBERON:0002943	precuneus cortex	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_L	UBERON:0006093	UBERON:0014608	precuneus cortex	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_L	UBERON:0006093	UBERON:0006092	precuneus cortex	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_L	UBERON:0002769	UBERON:0014608	superior temporal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_L	UBERON:0002769	UBERON:0002751	superior temporal gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_L	UBERON:0002769	UBERON:0002771	superior temporal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_L	UBERON:0002771	UBERON:0014608	middle temporal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_L	UBERON:0002771	UBERON:0002751	middle temporal gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_temporal_gyrus_L	UBERON:0002751	UBERON:0022364	inferior temporal gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_temporale_L	UBERON:0022268	UBERON:0002769	planum temporale	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_temporale_L	UBERON:0022268	UBERON:0002771	planum temporale	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_temporal_pole_L	UBERON:0002576	UBERON:0002769	temporal pole	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_temporal_pole_L	UBERON:0002576	UBERON:0002751	temporal pole	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_temporal_pole_L	UBERON:0002576	UBERON:0002771	temporal pole	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_L	UBERON:0023861	UBERON:0002751	planum polare	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_L	UBERON:0023861	UBERON:0002771	planum polare	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_occipital_pole_L	UBERON:0002902	UBERON:0002948	occipital pole	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_occipital_pole_L	UBERON:0002902	UBERON:0014608	occipital pole	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_L	UBERON:0006092	UBERON:0002948	cuneus cortex	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_L	UBERON:0006092	UBERON:0002902	cuneus cortex	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_L	UBERON:0006092	UBERON:0002943	cuneus cortex	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_L	UBERON:0006092	UBERON:0014608	cuneus cortex	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_L	UBERON:0002943	UBERON:0022364	lingual gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_L	UBERON:0002943	UBERON:0002902	lingual gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_L	UBERON:0002943	UBERON:0014608	lingual gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_L	UBERON:0022364	UBERON:0014608	occipital fusiform gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_L	UBERON:0002948	UBERON:0014608	superior occipital gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002336	anterior cingulate gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002038	anterior cingulate gyrus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0022383	anterior cingulate gyrus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0001946	anterior cingulate gyrus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002738	anterior cingulate gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002943	anterior cingulate gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002657	anterior cingulate gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0004720	anterior cingulate gyrus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0001945	anterior cingulate gyrus	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0000935	anterior cingulate gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002623	anterior cingulate gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0001947	anterior cingulate gyrus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0000052	anterior cingulate gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0001908	anterior cingulate gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0008884	anterior cingulate gyrus	left putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0003023	anterior cingulate gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002740	anterior cingulate gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_L	UBERON:0002756	UBERON:0002151	anterior cingulate gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0002336	posterior cingulate gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0002948	posterior cingulate gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0022364	posterior cingulate gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0002738	posterior cingulate gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0002943	posterior cingulate gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0014608	posterior cingulate gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0006092	posterior cingulate gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_L	UBERON:0002740	UBERON:0006093	posterior cingulate gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_ingulo_parahippocampal_isthmus_L	UBERON:0002738	UBERON:0002943	isthmus of cingulate gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_ingulo_parahippocampal_isthmus_L	UBERON:0002738	UBERON:0002657	isthmus of cingulate gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_ingulo_parahippocampal_isthmus_L	UBERON:0002738	UBERON:0002740	isthmus of cingulate gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_L	UBERON:0003020	UBERON:0004671	subcallosal area	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_L	UBERON:0003020	UBERON:0000052	subcallosal area	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_L	UBERON:0003020	UBERON:0001908	subcallosal area	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_L	UBERON:0003020	UBERON:0002266	subcallosal area	anterior olfactory nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_L	UBERON:0003020	UBERON:0000959	subcallosal area	optic chiasma
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_parahippocampal_gyrus_L	UBERON:0022383	UBERON:0002657	anterior parahippocampal gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_parahippocampal_gyrus_L	UBERON:0022383	UBERON:0002751	anterior parahippocampal gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_parahippocampal_gyrus_L	UBERON:0002657	UBERON:0002751	posterior parahippocampal gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_L	UBERON:0002038	UBERON:0022383	substantia nigra	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_L	UBERON:0002038	UBERON:0001946	substantia nigra	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_L	UBERON:0002038	UBERON:0002657	substantia nigra	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_L	UBERON:0002038	UBERON:0002623	substantia nigra	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_L	UBERON:0002038	UBERON:0003023	substantia nigra	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_L	UBERON:0002038	UBERON:0002151	substantia nigra	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_colliculus_L	UBERON:0001945	UBERON:0001946	superior colliculus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_colliculus_L	UBERON:0001945	UBERON:0002738	superior colliculus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_colliculus_L	UBERON:0001945	UBERON:0002943	superior colliculus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_L	UBERON:0002623	UBERON:0022383	cerebral peduncle	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_L	UBERON:0002623	UBERON:0002943	cerebral peduncle	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_L	UBERON:0002623	UBERON:0002657	cerebral peduncle	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_L	UBERON:0002623	UBERON:0002151	cerebral peduncle	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_L	UBERON:0002151	UBERON:0002422	pontine nuclear group	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_L	UBERON:0002151	UBERON:0003023	pontine nuclear group	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pontine_tegmentum_L	UBERON:0003023	UBERON:0002422	pontine tegmentum	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pontine_tegmentum_L	UBERON:0003023	UBERON:0002151	pontine tegmentum	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_L	UBERON:0002911	UBERON:0002769	parietal operculum	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_L	UBERON:0002911	UBERON:0022268	parietal operculum	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_L	UBERON:0002911	UBERON:0002771	parietal operculum	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002902	right cerebral hemisphere	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002948	right cerebral hemisphere	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0006093	right cerebral hemisphere	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0022364	right cerebral hemisphere	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002948	right cerebral hemisphere	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002902	right cerebral hemisphere	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002657	right cerebral hemisphere	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002943	right cerebral hemisphere	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002657	right cerebral hemisphere	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0014608	right cerebral hemisphere	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002943	right cerebral hemisphere	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0004720	right cerebral hemisphere	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002751	right cerebral hemisphere	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0006092	right cerebral hemisphere	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002771	right cerebral hemisphere	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0006093	right cerebral hemisphere	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0014608	right cerebral hemisphere	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0006092	right cerebral hemisphere	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0003023	right cerebral hemisphere	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0003023	right cerebral hemisphere	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_brain_Hemisphere_R	UBERON:0002813	UBERON:0002740	right cerebral hemisphere	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002657	right putamen	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002623	right putamen	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002740	right putamen	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002943	right putamen	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0001908	right putamen	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002738	right putamen	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0001946	right putamen	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002336	right putamen	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0001945	right putamen	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0002038	right putamen	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_putamen_R	UBERON:0008885	UBERON:0001947	right putamen	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pineal_body_R	UBERON:0001905	UBERON:0001945	pineal body	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pineal_body_R	UBERON:0001905	UBERON:0001945	pineal body	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0002038	anterior commissure	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0002623	anterior commissure	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0001908	anterior commissure	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0002623	anterior commissure	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0001908	anterior commissure	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0001898	anterior commissure	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0001898	anterior commissure	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_commissure_R	UBERON:0000935	UBERON:0002038	anterior commissure	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0006093	corpus callosum	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002038	corpus callosum	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001946	corpus callosum	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002943	corpus callosum	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002623	corpus callosum	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002740	corpus callosum	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002943	corpus callosum	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0004720	corpus callosum	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001945	corpus callosum	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002623	corpus callosum	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001947	corpus callosum	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0000052	corpus callosum	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001946	corpus callosum	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001945	corpus callosum	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0006092	corpus callosum	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0006093	corpus callosum	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001905	corpus callosum	pineal body
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0006092	corpus callosum	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002038	corpus callosum	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001947	corpus callosum	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0001905	corpus callosum	pineal body
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0003023	corpus callosum	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0000052	corpus callosum	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_corpus_callosum_R	UBERON:0002336	UBERON:0002740	corpus callosum	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0002336	fornix of brain	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0006093	fornix of brain	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001946	fornix of brain	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0002740	fornix of brain	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0002943	fornix of brain	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0004720	fornix of brain	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001945	fornix of brain	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001947	fornix of brain	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0002738	fornix of brain	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001946	fornix of brain	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0002336	fornix of brain	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001945	fornix of brain	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0006093	fornix of brain	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001905	fornix of brain	pineal body
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0003023	fornix of brain	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001947	fornix of brain	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0001905	fornix of brain	pineal body
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0003023	fornix of brain	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fornix_R	UBERON:0000052	UBERON:0002740	fornix of brain	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0002038	optic tract	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001946	optic tract	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0002657	optic tract	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0002623	optic tract	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001945	optic tract	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0002623	optic tract	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001947	optic tract	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001946	optic tract	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001945	optic tract	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001898	optic tract	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001898	optic tract	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0002038	optic tract	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_tract_R	UBERON:0001908	UBERON:0001947	optic tract	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002336	precentral gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002948	precentral gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0006093	precentral gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002948	precentral gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0001946	precentral gyrus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002738	precentral gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002657	precentral gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002943	precentral gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0022364	precentral gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002740	precentral gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002943	precentral gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0004720	precentral gyrus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0001945	precentral gyrus	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002738	precentral gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0000052	precentral gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0001946	precentral gyrus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002336	precentral gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0001945	precentral gyrus	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002581	precentral gyrus	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0006092	precentral gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0006093	precentral gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0014608	precentral gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0006092	precentral gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0003023	precentral gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0035932	precentral gyrus	anterior segment of paracentral lobule
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0003023	precentral gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0000052	precentral gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precentral_gyrus_R	UBERON:0002703	UBERON:0002740	precentral gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002336	superior frontal gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0006093	superior frontal gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002948	superior frontal gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002738	superior frontal gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002943	superior frontal gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002756	superior frontal gyrus	anterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0035932	superior frontal gyrus	anterior segment of paracentral lobule
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002740	superior frontal gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002943	superior frontal gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0008885	superior frontal gyrus	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0001947	superior frontal gyrus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0000052	superior frontal gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002336	superior frontal gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002756	superior frontal gyrus	anterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0006092	superior frontal gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0006093	superior frontal gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0006092	superior frontal gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0035932	superior frontal gyrus	anterior segment of paracentral lobule
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_frontal_gyrus_R	UBERON:0002661	UBERON:0002740	superior frontal gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002980	middle frontal gyrus	opercular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0006093	middle frontal gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002771	middle frontal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0000935	middle frontal gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0004671	middle frontal gyrus	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002623	middle frontal gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002740	middle frontal gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002943	middle frontal gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0022264	middle frontal gyrus	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0001908	middle frontal gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0008885	middle frontal gyrus	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002738	middle frontal gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002336	middle frontal gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0001945	middle frontal gyrus	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002756	middle frontal gyrus	anterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0022268	middle frontal gyrus	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002581	middle frontal gyrus	postcentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002644	middle frontal gyrus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002947	middle frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002703	middle frontal gyrus	precentral gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0006092	middle frontal gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0003020	middle frontal gyrus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002038	middle frontal gyrus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0023861	middle frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0001947	middle frontal gyrus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0035932	middle frontal gyrus	anterior segment of paracentral lobule
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0000052	middle frontal gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002570	middle frontal gyrus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_frontal_gyrus_R	UBERON:0002702	UBERON:0002911	middle frontal gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002980	triangular part of inferior frontal gyrus	opercular part of inferior frontal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0000935	triangular part of inferior frontal gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002576	triangular part of inferior frontal gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0022264	triangular part of inferior frontal gyrus	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0001908	triangular part of inferior frontal gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0008885	triangular part of inferior frontal gyrus	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002336	triangular part of inferior frontal gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002644	triangular part of inferior frontal gyrus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002947	triangular part of inferior frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002564	triangular part of inferior frontal gyrus	lateral orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0023861	triangular part of inferior frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_triangular_part_R	UBERON:0002629	UBERON:0002570	triangular part of inferior frontal gyrus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0000935	opercular part of inferior frontal gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0002623	opercular part of inferior frontal gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0022264	opercular part of inferior frontal gyrus	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0001908	opercular part of inferior frontal gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0008885	opercular part of inferior frontal gyrus	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0002947	opercular part of inferior frontal gyrus	frontal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0023861	opercular part of inferior frontal gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_frontal_gyrus_opercular_part_R	UBERON:0002980	UBERON:0002911	opercular part of inferior frontal gyrus	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0002151	gyrus rectus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0002623	gyrus rectus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0001908	gyrus rectus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0002623	gyrus rectus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0003020	gyrus rectus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0001947	gyrus rectus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0001908	gyrus rectus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0001898	gyrus rectus	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0001898	gyrus rectus	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0003020	gyrus rectus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0002038	gyrus rectus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0001947	gyrus rectus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0002151	gyrus rectus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_gyrus_rectus_straight_gyrus_R	UBERON:0004671	UBERON:0000959	gyrus rectus	optic chiasma
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0022383	medial orbital gyrus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0004671	medial orbital gyrus	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0004671	medial orbital gyrus	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0002151	medial orbital gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0002623	medial orbital gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0001908	medial orbital gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0003020	medial orbital gyrus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0003020	medial orbital gyrus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0002038	medial orbital gyrus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0001947	medial orbital gyrus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0000052	medial orbital gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0002151	medial orbital gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_medial_orbital_gyrus_R	UBERON:0002570	UBERON:0000959	medial orbital gyrus	optic chiasma
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0004671	intermediate orbital gyrus	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0002756	intermediate orbital gyrus	anterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0002570	intermediate orbital gyrus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0022383	intermediate orbital gyrus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0000935	intermediate orbital gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0004671	intermediate orbital gyrus	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0002576	intermediate orbital gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0001908	intermediate orbital gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0003020	intermediate orbital gyrus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_intermediate_orbital_gyrus_R	UBERON:0002644	UBERON:0002570	intermediate orbital gyrus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0022383	lateral orbital gyrus	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0000935	lateral orbital gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0002576	lateral orbital gyrus	temporal pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0008885	lateral orbital gyrus	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0002644	lateral orbital gyrus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0002644	lateral orbital gyrus	intermediate orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0023861	lateral orbital gyrus	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_orbital_gyrus_R	UBERON:0002564	UBERON:0002570	lateral orbital gyrus	medial orbital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_R	UBERON:0035932	UBERON:0002336	anterior segment of paracentral lobule	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_R	UBERON:0035932	UBERON:0006093	anterior segment of paracentral lobule	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_R	UBERON:0035932	UBERON:0002740	anterior segment of paracentral lobule	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_R	UBERON:0035932	UBERON:0002336	anterior segment of paracentral lobule	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_R	UBERON:0035932	UBERON:0006093	anterior segment of paracentral lobule	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_paracentral_lobule_rostral_part_R	UBERON:0035932	UBERON:0002740	anterior segment of paracentral lobule	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_R	UBERON:0002947	UBERON:0022264	frontal operculum	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_R	UBERON:0002947	UBERON:0008885	frontal operculum	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_R	UBERON:0002947	UBERON:0022268	frontal operculum	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_R	UBERON:0002947	UBERON:0023861	frontal operculum	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_frontal_operculum_R	UBERON:0002947	UBERON:0002911	frontal operculum	parietal operculum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002902	postcentral gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002336	postcentral gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002948	postcentral gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0006093	postcentral gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002948	postcentral gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002902	postcentral gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002738	postcentral gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002943	postcentral gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0022364	postcentral gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0035932	postcentral gyrus	anterior segment of paracentral lobule
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002740	postcentral gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002943	postcentral gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0004720	postcentral gyrus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002738	postcentral gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002336	postcentral gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0006092	postcentral gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0006093	postcentral gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0014608	postcentral gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0006092	postcentral gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0035932	postcentral gyrus	anterior segment of paracentral lobule
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_postcentral_gyrus_R	UBERON:0002581	UBERON:0002740	postcentral gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0002902	precuneus cortex	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0002948	precuneus cortex	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0002948	precuneus cortex	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0002902	precuneus cortex	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0002943	precuneus cortex	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0002943	precuneus cortex	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0006092	precuneus cortex	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_precuneus_R	UBERON:0006093	UBERON:0006092	precuneus cortex	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0002771	superior temporal gyrus	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0002948	superior temporal gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0002657	superior temporal gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0022364	superior temporal gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0002943	superior temporal gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0002751	superior temporal gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_temporal_gyrus_R	UBERON:0002769	UBERON:0014608	superior temporal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0002902	middle temporal gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0002948	middle temporal gyrus	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0002657	middle temporal gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0022364	middle temporal gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0002943	middle temporal gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0002751	middle temporal gyrus	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0014608	middle temporal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_middle_temporal_gyrus_R	UBERON:0002771	UBERON:0006092	middle temporal gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_temporal_gyrus_R	UBERON:0002751	UBERON:0022364	inferior temporal gyrus	occipital fusiform gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_temporal_gyrus_R	UBERON:0002751	UBERON:0014608	inferior temporal gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_temporale_R	UBERON:0022268	UBERON:0006093	planum temporale	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_temporale_R	UBERON:0022268	UBERON:0002771	planum temporale	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_temporale_R	UBERON:0022268	UBERON:0002943	planum temporale	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_temporale_R	UBERON:0022268	UBERON:0002769	planum temporale	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_temporal_pole_R	UBERON:0002576	UBERON:0022383	temporal pole	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_temporal_pole_R	UBERON:0002576	UBERON:0002771	temporal pole	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_temporal_pole_R	UBERON:0002576	UBERON:0002751	temporal pole	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0022383	planum polare	anterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0002771	planum polare	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0002657	planum polare	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0002740	planum polare	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0002943	planum polare	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0022264	planum polare	optic radiation
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0001908	planum polare	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0008885	planum polare	right putamen
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_planum_polare_R	UBERON:0023861	UBERON:0002751	planum polare	inferior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_R	UBERON:0006092	UBERON:0002902	cuneus cortex	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_R	UBERON:0006092	UBERON:0002948	cuneus cortex	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_R	UBERON:0006092	UBERON:0002948	cuneus cortex	superior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_R	UBERON:0006092	UBERON:0002902	cuneus cortex	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_R	UBERON:0006092	UBERON:0002943	cuneus cortex	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cuneus_R	UBERON:0006092	UBERON:0002943	cuneus cortex	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R	UBERON:0002943	UBERON:0002902	lingual gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R	UBERON:0002943	UBERON:0002902	lingual gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R	UBERON:0002943	UBERON:0004720	lingual gyrus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R	UBERON:0002943	UBERON:0006092	lingual gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R	UBERON:0002943	UBERON:0014608	lingual gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lingual_gyrus_medial_occipitotemporal_gyrus_R	UBERON:0002943	UBERON:0006092	lingual gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_R	UBERON:0022364	UBERON:0002943	occipital fusiform gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_lateral_occipitotemporal_fusiform_gyrus_occipital_part_R	UBERON:0022364	UBERON:0014608	occipital fusiform gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_occipital_gyrus_R	UBERON:0014608	UBERON:0002902	inferior occipital gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_occipital_gyrus_R	UBERON:0014608	UBERON:0002943	inferior occipital gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_occipital_gyrus_R	UBERON:0014608	UBERON:0002943	inferior occipital gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_occipital_gyrus_R	UBERON:0014608	UBERON:0006092	inferior occipital gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_occipital_gyrus_R	UBERON:0014608	UBERON:0006092	inferior occipital gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0002902	superior occipital gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0002902	superior occipital gyrus	occipital pole
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0002943	superior occipital gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0002943	superior occipital gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0006092	superior occipital gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0014608	superior occipital gyrus	inferior occipital gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_occipital_gyrus_R	UBERON:0002948	UBERON:0006092	superior occipital gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002336	anterior cingulate gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0000935	anterior cingulate gyrus	anterior commissure
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001946	anterior cingulate gyrus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002151	anterior cingulate gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002623	anterior cingulate gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002740	anterior cingulate gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001908	anterior cingulate gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0004720	anterior cingulate gyrus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001945	anterior cingulate gyrus	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002623	anterior cingulate gyrus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0003020	anterior cingulate gyrus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001947	anterior cingulate gyrus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002738	anterior cingulate gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002422	anterior cingulate gyrus	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0000052	anterior cingulate gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001946	anterior cingulate gyrus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002336	anterior cingulate gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001945	anterior cingulate gyrus	superior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002422	anterior cingulate gyrus	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001908	anterior cingulate gyrus	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001905	anterior cingulate gyrus	pineal body
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001898	anterior cingulate gyrus	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001898	anterior cingulate gyrus	hypothalamus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0003020	anterior cingulate gyrus	subcallosal area
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002038	anterior cingulate gyrus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0003023	anterior cingulate gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001947	anterior cingulate gyrus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0001905	anterior cingulate gyrus	pineal body
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0003023	anterior cingulate gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0000052	anterior cingulate gyrus	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002740	anterior cingulate gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0002151	anterior cingulate gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_rostral_anterior_part_R	UBERON:0002756	UBERON:0000959	anterior cingulate gyrus	optic chiasma
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002336	posterior cingulate gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0006093	posterior cingulate gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002738	posterior cingulate gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002943	posterior cingulate gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002943	posterior cingulate gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0004720	posterior cingulate gyrus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002738	posterior cingulate gyrus	isthmus of cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002422	posterior cingulate gyrus	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002336	posterior cingulate gyrus	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0002422	posterior cingulate gyrus	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0006092	posterior cingulate gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0006093	posterior cingulate gyrus	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cingulate_gyrus_caudal_posterior_part_R	UBERON:0002740	UBERON:0006092	posterior cingulate gyrus	cuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_ingulo_parahippocampal_isthmus_R	UBERON:0002738	UBERON:0002740	isthmus of cingulate gyrus	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_ingulo_parahippocampal_isthmus_R	UBERON:0002738	UBERON:0002943	isthmus of cingulate gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_R	UBERON:0003020	UBERON:0004671	subcallosal area	gyrus rectus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_R	UBERON:0003020	UBERON:0001908	subcallosal area	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_R	UBERON:0003020	UBERON:0000052	subcallosal area	fornix of brain
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_subcallosal_gyrus_parolfactory_gyrus_R	UBERON:0003020	UBERON:0000959	subcallosal area	optic chiasma
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_parahippocampal_gyrus_R	UBERON:0022383	UBERON:0002657	anterior parahippocampal gyrus	posterior parahippocampal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_parahippocampal_gyrus_R	UBERON:0022383	UBERON:0002151	anterior parahippocampal gyrus	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_anterior_parahippocampal_gyrus_R	UBERON:0022383	UBERON:0003023	anterior parahippocampal gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_parahippocampal_gyrus_R	UBERON:0002657	UBERON:0002943	posterior parahippocampal gyrus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_parahippocampal_gyrus_R	UBERON:0002657	UBERON:0002422	posterior parahippocampal gyrus	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_posterior_parahippocampal_gyrus_R	UBERON:0002657	UBERON:0003023	posterior parahippocampal gyrus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_red_nucleus_R	UBERON:0001947	UBERON:0003023	red nucleus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_R	UBERON:0002038	UBERON:0002151	substantia nigra	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_R	UBERON:0002038	UBERON:0002623	substantia nigra	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_R	UBERON:0002038	UBERON:0003023	substantia nigra	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_substantia_nigra_R	UBERON:0002038	UBERON:0001947	substantia nigra	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_colliculus_R	UBERON:0001945	UBERON:0001946	superior colliculus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_superior_colliculus_R	UBERON:0001945	UBERON:0001946	superior colliculus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_colliculus_R	UBERON:0001946	UBERON:0004720	inferior colliculus	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_colliculus_R	UBERON:0001946	UBERON:0003023	inferior colliculus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0001946	cerebral peduncle	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0002151	cerebral peduncle	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0002943	cerebral peduncle	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0002422	cerebral peduncle	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0001946	cerebral peduncle	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0002422	cerebral peduncle	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0003023	cerebral peduncle	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0003023	cerebral peduncle	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_cerebral_peduncle_crus_cerebri_R	UBERON:0002623	UBERON:0002151	cerebral peduncle	pontine nuclear group
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_R	UBERON:0002151	UBERON:0004720	pontine nuclear group	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_R	UBERON:0002151	UBERON:0002422	pontine nuclear group	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_R	UBERON:0002151	UBERON:0002422	pontine nuclear group	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_R	UBERON:0002151	UBERON:0003023	pontine nuclear group	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_basilar_part_of_pons_R	UBERON:0002151	UBERON:0003023	pontine nuclear group	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pontine_tegmentum_R	UBERON:0003023	UBERON:0004720	pontine tegmentum	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pontine_tegmentum_R	UBERON:0003023	UBERON:0002422	pontine tegmentum	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_pontine_tegmentum_R	UBERON:0003023	UBERON:0002422	pontine tegmentum	fourth ventricle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_fourth_ventricle_R	UBERON:0002422	UBERON:0004720	fourth ventricle	cerebellar vermis
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0006093	parietal operculum	precuneus cortex
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0002771	parietal operculum	middle temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0002740	parietal operculum	posterior cingulate gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0002769	parietal operculum	superior temporal gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0002336	parietal operculum	corpus callosum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0022268	parietal operculum	planum temporale
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_parietal_operculum_R	UBERON:0002911	UBERON:0023861	parietal operculum	planum polare
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_optic_radiation_R	UBERON:0022264	UBERON:0001908	optic radiation	optic tract
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_hypothalamus_L	UBERON:0001898	UBERON:0002038	hypothalamus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_hypothalamus_L	UBERON:0001898	UBERON:0002623	hypothalamus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_hypothalamus_L	UBERON:0001898	UBERON:0001947	hypothalamus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_hypothalamus_R	UBERON:0001898	UBERON:0001947	hypothalamus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_hypothalamus_R	UBERON:0001898	UBERON:0001947	hypothalamus	red nucleus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_red_nucleus_L	UBERON:0001947	UBERON:0002038	red nucleus	substantia nigra
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_red_nucleus_L	UBERON:0001947	UBERON:0001946	red nucleus	inferior colliculus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_red_nucleus_L	UBERON:0001947	UBERON:0002623	red nucleus	cerebral peduncle
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_red_nucleus_L	UBERON:0001947	UBERON:0003023	red nucleus	pontine tegmentum
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_colliculus_L	UBERON:0001946	UBERON:0002943	inferior colliculus	lingual gyrus
+http://purl.org/ccf/latest/ccf.owl#VHMAllenBrain	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Allen_inferior_colliculus_L	UBERON:0001946	UBERON:0003023	inferior colliculus	pontine tegmentum

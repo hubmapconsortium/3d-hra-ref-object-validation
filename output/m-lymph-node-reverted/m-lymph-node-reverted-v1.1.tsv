@@ -1,0 +1,28 @@
+user_slabel	user_olabel	s	o	slabel	olabel
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0004536	Lymph Node	Lymph vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0010748	Lymph Node	lymph node follicle
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0010417	Lymph Node	lymph node T cell domain
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0004536	capsule of lymph node	Lymph vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0002007	capsule of lymph node	medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0010748	capsule of lymph node	lymph node follicle
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0010417	capsule of lymph node	lymph node T cell domain
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0002194	lymph node follicle	capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0004536	lymph node follicle	Lymph vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0002007	lymph node follicle	medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0010417	lymph node follicle	lymph node T cell domain
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0002194	efferent lymphatic vessel	capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0002007	efferent lymphatic vessel	medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0010748	efferent lymphatic vessel	lymph node follicle
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0010417	efferent lymphatic vessel	lymph node T cell domain
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0002194	medulla of lymph node	capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0004536	medulla of lymph node	Lymph vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0010748	medulla of lymph node	lymph node follicle
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0010417	medulla of lymph node	lymph node T cell domain
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0002194	lymph node t cell domain	capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0004536	lymph node t cell domain	Lymph vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0002007	lymph node t cell domain	medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0010748	lymph node t cell domain	lymph node follicle
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0002194	lymph vasculature	capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0002007	lymph vasculature	medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0010748	lymph vasculature	lymph node follicle
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0010417	lymph vasculature	lymph node T cell domain

@@ -1,0 +1,3 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_jejunum	UBERON:0002115	UBERON:0002116	jejunum	ileum
+http://purl.org/ccf/latest/ccf.owl#VHMSmallIntestine	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_duodenum	UBERON:0002114	UBERON:0002115	duodenum	jejunum

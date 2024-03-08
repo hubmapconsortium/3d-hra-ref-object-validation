@@ -1,0 +1,45 @@
+user_slabel	user_olabel	s	o	slabel	olabel
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	UBERON:0001004	UBERON:0004888	Lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	UBERON:0001004	UBERON:0004888	Lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs	UBERON:0002048	UBERON:0004888	lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs	UBERON:0002048	UBERON:0004888	lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L	UBERON:0002168	UBERON:0004888	left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L	UBERON:0002168	UBERON:0004887	left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L	UBERON:0002168	UBERON:0004888	left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L	UBERON:0002168	UBERON:0004888	left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L	UBERON:0002168	UBERON:0012066	left lung	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L	UBERON:0002168	UBERON:0004887	left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_L	UBERON:0004887	UBERON:0012066	left lung hilus	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0004888	upper lobe of left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0004887	upper lobe of left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0004887	upper lobe of left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0004888	upper lobe of left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0004888	upper lobe of left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0012066	upper lobe of left lung	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_upper_lobe	UBERON:0008952	UBERON:0004887	upper lobe of left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_upper_L	UBERON:0004887	UBERON:0012065	left lung hilus	lobar bronchus of left lung upper lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_upper_L	UBERON:0004887	UBERON:0012066	left lung hilus	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_lower_lobe	UBERON:0008953	UBERON:0004888	lower lobe of left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lungs_L_lower_lobe	UBERON:0008953	UBERON:0004888	lower lobe of left lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_lower_L	UBERON:0004887	UBERON:0012066	left lung hilus	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_R	UBERON:0004888	UBERON:0002185	right lung hilus	bronchus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bronchi	UBERON:0002185	UBERON:0004888	bronchus	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bronchi	UBERON:0002185	UBERON:0004888	bronchus	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchus_L	UBERON:0003405	UBERON:0004887	lobar bronchus of left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchus_L	UBERON:0003405	UBERON:0012066	lobar bronchus of left lung	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchus_L	UBERON:0003405	UBERON:0004887	lobar bronchus of left lung	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0004887	lobar bronchus of left lung upper lobe	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0004887	lobar bronchus of left lung upper lobe	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0012066	lobar bronchus of left lung upper lobe	lobar bronchus of left lung lower lobe
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0004887	lobar bronchus of left lung upper lobe	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_inferior_lobar_bronchus	UBERON:0012066	UBERON:0004887	lobar bronchus of left lung lower lobe	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_left_inferior_lobar_bronchus	UBERON:0012066	UBERON:0004887	lobar bronchus of left lung lower lobe	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_tertiary_bronchi_L	UBERON:0002184	UBERON:0004887	segmental bronchus	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_tertiary_bronchi_L	UBERON:0002184	UBERON:0004887	segmental bronchus	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_tertiary_bronchi_L	UBERON:0002184	UBERON:0004887	segmental bronchus	left lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchi_R	UBERON:0003404	UBERON:0004888	lobar bronchus of right lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchi_R	UBERON:0003404	UBERON:0004888	lobar bronchus of right lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchi_R	UBERON:0003404	UBERON:0004888	lobar bronchus of right lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_lobar_bronchi_R	UBERON:0003404	UBERON:0004888	lobar bronchus of right lung	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bronchus	UBERON:0002185	UBERON:0004888	bronchus	right lung hilus
+http://purl.org/ccf/latest/ccf.owl#VHMLungV1.1	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_bronchus	UBERON:0002185	UBERON:0004888	bronchus	right lung hilus
