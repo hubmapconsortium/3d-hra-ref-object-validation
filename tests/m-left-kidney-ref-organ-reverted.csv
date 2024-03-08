@@ -1,0 +1,71 @@
+user_slabel,user_olabel,s,o,slabel,olabel
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,UBERON:0004538,UBERON:0002189,Left Kidney,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,UBERON:0004538,UBERON:0001284,Left Kidney,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_kidney_capsule_L,UBERON:0002015,UBERON:0002189,kidney capsule,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_kidney_capsule_L,UBERON:0002015,UBERON:0001284,kidney capsule,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_of_kidney_L,UBERON:0008716,UBERON:0002015,hilum of kidney,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_of_kidney_L,UBERON:0008716,UBERON:0002189,hilum of kidney,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_of_kidney_L,UBERON:0008716,UBERON:0001284,hilum of kidney,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hilum_of_kidney_L,UBERON:0008716,UBERON:0004200,hilum of kidney,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_cortex_of_kidney_L,UBERON:0001225,UBERON:0002189,cortex of kidney,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_cortex_of_kidney_L,UBERON:0001225,UBERON:0001284,cortex of kidney,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_cortex_of_kidney_L,UBERON:0001225,UBERON:0004200,cortex of kidney,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_column_L,UBERON:0001284,UBERON:0002015,renal column,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_column_L,UBERON:0001284,UBERON:0002189,renal column,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_column_L,UBERON:0001284,UBERON:0004200,renal column,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_outer_cortex_of_kidney_L,UBERON:0002189,UBERON:0001284,outer cortex of kidney,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_outer_cortex_of_kidney_L,UBERON:0002189,UBERON:0004200,outer cortex of kidney,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_medulla_L,UBERON:0000362,UBERON:0002189,renal medulla,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_medulla_L,UBERON:0000362,UBERON:0004200,renal medulla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L,UBERON:0001228,UBERON:0002015,renal papilla,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L,UBERON:0001228,UBERON:0002189,renal papilla,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L,UBERON:0001228,UBERON:0008716,renal papilla,hilum of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_a,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_a,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_b,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_c,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_c,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_d,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_d,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_e,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_f,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_f,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_g,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_g,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_h,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_h,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_h,UBERON:0001228,UBERON:0008716,renal papilla,hilum of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_i,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_i,UBERON:0001228,UBERON:0004200,renal papilla,renal pyramid
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_i,UBERON:0001228,UBERON:0002189,renal papilla,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_papilla_L_i,UBERON:0001228,UBERON:0001284,renal papilla,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_a,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_a,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_a,UBERON:0004200,UBERON:0001284,renal pyramid,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_b,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_b,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_b,UBERON:0004200,UBERON:0001284,renal pyramid,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_c,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_c,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_c,UBERON:0004200,UBERON:0001284,renal pyramid,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_d,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_d,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_e,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_e,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_e,UBERON:0004200,UBERON:0001284,renal pyramid,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_e,UBERON:0004200,UBERON:0008716,renal pyramid,hilum of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_f,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_f,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_f,UBERON:0004200,UBERON:0001284,renal pyramid,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_g,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_g,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_g,UBERON:0004200,UBERON:0001284,renal pyramid,renal column
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_g,UBERON:0004200,UBERON:0008716,renal pyramid,hilum of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_h,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_h,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_i,UBERON:0004200,UBERON:0002015,renal pyramid,kidney capsule
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_i,UBERON:0004200,UBERON:0002189,renal pyramid,outer cortex of kidney
+http://purl.org/ccf/latest/ccf.owl#VHMLeftKidney,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_renal_pyramid_L_i,UBERON:0004200,UBERON:0001284,renal pyramid,renal column

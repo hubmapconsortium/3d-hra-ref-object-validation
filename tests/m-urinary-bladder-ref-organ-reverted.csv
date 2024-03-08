@@ -1,0 +1,7 @@
+user_slabel,user_olabel,s,o,slabel,olabel
+http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,UBERON:0001255,UBERON:0001257,Urinary Bladder,trigone of urinary bladder
+http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_urinary_bladder_neck_smooth_muscle,UBERON:0004230,UBERON:0006082,urinary bladder neck smooth muscle,fundus of urinary bladder
+http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_fundus_of_urinary_bladder_dome,UBERON:0006082,UBERON:0001257,fundus of urinary bladder,trigone of urinary bladder
+http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_fundus_of_urinary_bladder,UBERON:0006082,UBERON:0001257,fundus of urinary bladder,trigone of urinary bladder
+http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_fundus_of_urinary_bladder_base1,UBERON:0006082,UBERON:0001257,fundus of urinary bladder,trigone of urinary bladder
+http://purl.org/ccf/latest/ccf.owl#VHMUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_trigone_of_urinary_bladder,UBERON:0001257,UBERON:0006082,trigone of urinary bladder,fundus of urinary bladder
