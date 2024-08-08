@@ -8,9 +8,8 @@ from pathlib import Path
 import pandas as pd
 from asct_parser.asct_parser import parse_asctb
 from asct_parser.utils.util import load_asctb
-from relation_validator.utils.utils import (get_labels, get_obograph,
-                                            save_obograph)
-from relation_validator.validator import run_validation
+from verificado.utils.utils import get_labels, get_obograph, save_obograph
+from verificado.validator import run_validation
 
 from config.validation_config import load_validation_config
 
@@ -38,10 +37,10 @@ def validate(configfile: Path):
         if d.filename:
             asct_parsed = pd.read_csv(d.filename)
             temp_filename = os.path.splitext(os.path.split(d.filename)[1])[0]
-
+        print(f"Validating {d.name} {d.version}")
         report, rel_terms = run_validation(asct_parsed, config.relationships)
         labels = get_labels(asct_parsed)
-        graph = get_obograph(rel_terms, labels)
+        graph = get_obograph(rel_terms, labels, config.relationships)
         save_obograph(graph, f"{data_dir}/{temp_filename}.png")
 
         report.to_csv(
