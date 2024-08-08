@@ -1,0 +1,46 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFPelvis,UBERON:0001270,UBERON:0002483,Pelvis,Spatial entity of female ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFPelvis,UBERON:0001270,UBERON:0002483,Pelvis,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_sacrum,UBERON:0003690,UBERON:0002483,fused sacrum,Spatial entity of female ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_sacrum,UBERON:0003690,UBERON:0001350,fused sacrum,Spatial entity of female coccyx
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis,UBERON:0001275,UBERON:0001439,pubis,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis,UBERON:0001275,UBERON:0002483,pubis,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis,UBERON:0001275,UBERON:0002483,pubis,Spatial entity of female pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis,UBERON:0001275,UBERON:0001439,pubis,Spatial entity of female pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_spongy_bone_R,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium,UBERON:0001273,UBERON:0001439,ilium,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium,UBERON:0001273,UBERON:0003690,ilium,Spatial entity of female sacrum
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium,UBERON:0001273,UBERON:0002483,ilium,Spatial entity of female ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium,UBERON:0001273,UBERON:0001439,ilium,Spatial entity of female ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium,UBERON:0001273,UBERON:0002483,ilium,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone,UBERON:0001439,UBERON:0003690,compact bone tissue,Spatial entity of female sacrum
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone_L,UBERON:0001439,UBERON:0003690,compact bone tissue,Spatial entity of female sacrum
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_spongy_bone,UBERON:0002483,UBERON:0003690,trabecular bone tissue,Spatial entity of female sacrum
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ilium_spongy_bone_L,UBERON:0002483,UBERON:0003690,trabecular bone tissue,Spatial entity of female sacrum
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium,UBERON:0001274,UBERON:0001439,ischium,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium,UBERON:0001274,UBERON:0002483,ischium,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of female ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium_spongy_bone_R,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHFPelvis,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_ischium_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of female ischium compact bone

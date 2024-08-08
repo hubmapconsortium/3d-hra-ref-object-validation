@@ -1,0 +1,9 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_descending_colon	UBERON:0001158	UBERON:0001052	descending colon	Spatial entity of male rectum
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_descending_colon	UBERON:0001158	UBERON:0001159	descending colon	Spatial entity of male sigmoid colon
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_hepatic_flexure_of_colon	UBERON:0022277	UBERON:0001156	hepatic flexure of colon	Spatial entity of male ascending colon
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_splenic_flexure_of_colon	UBERON:0022276	UBERON:0001158	splenic flexure of colon	Spatial entity of male descending colon
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_splenic_flexure_of_colon	UBERON:0022276	UBERON:0001157	splenic flexure of colon	Spatial entity of male transverse colon
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_transverse_colon	UBERON:0001157	UBERON:0001153	transverse colon	Spatial entity of male caecum
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ileocecal_valve	UBERON:0000569	UBERON:0001153	ileocecal valve	Spatial entity of male caecum
+http://purl.org/ccf/latest/ccf.owl#VHMColon	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_vermiform_appendix	UBERON:0001154	UBERON:0001159	vermiform appendix	Spatial entity of male sigmoid colon

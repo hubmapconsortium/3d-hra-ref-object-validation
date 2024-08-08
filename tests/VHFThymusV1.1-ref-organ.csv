@@ -1,0 +1,4 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1,http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1,UBERON:0002370,UBERON:0005469,Thymus,Spatial entity of female thymus lobe
+http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1,http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1,UBERON:0002370,UBERON:0005457,Thymus,Spatial entity of female thymus lobe
+http://purl.org/ccf/latest/ccf.owl#VHFThymusV1.1,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_thymus_lobe_L,UBERON:0005457,UBERON:0005469,left thymus lobe,Spatial entity of female thymus lobe

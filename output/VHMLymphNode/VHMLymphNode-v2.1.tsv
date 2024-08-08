@@ -1,0 +1,31 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0002007	Lymph Node	Spatial entity of male medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0002194	Lymph Node	Spatial entity of male capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0010748	Lymph Node	Spatial entity of male follicles
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0004536	Lymph Node	Spatial entity of male blood vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	UBERON:0002509	UBERON:0010417	Lymph Node	Spatial entity of male paracortex
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0002007	capsule of lymph node	Spatial entity of male medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0010748	capsule of lymph node	Spatial entity of male follicles
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0004536	capsule of lymph node	Spatial entity of male blood vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_capsule_of_lymph_node	UBERON:0002194	UBERON:0010417	capsule of lymph node	Spatial entity of male paracortex
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0002007	lymph node follicle	Spatial entity of male medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0002194	lymph node follicle	Spatial entity of male capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0004536	lymph node follicle	Spatial entity of male blood vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_follicles	UBERON:0010748	UBERON:0010417	lymph node follicle	Spatial entity of male paracortex
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0002007	efferent lymphatic vessel	Spatial entity of male medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0002194	efferent lymphatic vessel	Spatial entity of male capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0010748	efferent lymphatic vessel	Spatial entity of male follicles
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0004536	efferent lymphatic vessel	Spatial entity of male blood vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_efferent_lymph_node	UBERON:0010397	UBERON:0010417	efferent lymphatic vessel	Spatial entity of male paracortex
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0002194	medulla of lymph node	Spatial entity of male capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0010748	medulla of lymph node	Spatial entity of male follicles
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0004536	medulla of lymph node	Spatial entity of male blood vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_medulla_of_lymph_node	UBERON:0002007	UBERON:0010417	medulla of lymph node	Spatial entity of male paracortex
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0002007	lymph node t cell domain	Spatial entity of male medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0002194	lymph node t cell domain	Spatial entity of male capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0010748	lymph node t cell domain	Spatial entity of male follicles
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_paracortex	UBERON:0010417	UBERON:0004536	lymph node t cell domain	Spatial entity of male blood vasculature
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0002007	lymph vasculature	Spatial entity of male medulla of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0002194	lymph vasculature	Spatial entity of male capsule of lymph node
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0010748	lymph vasculature	Spatial entity of male follicles
+http://purl.org/ccf/latest/ccf.owl#VHMLymphNode	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_Yao_blood_vasculature	UBERON:0004536	UBERON:0010417	lymph vasculature	Spatial entity of male paracortex
