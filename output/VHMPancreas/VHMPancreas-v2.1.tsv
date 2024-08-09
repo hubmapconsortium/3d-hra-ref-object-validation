@@ -1,0 +1,4 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_body_of_pancreas	UBERON:0001150	UBERON:0010373	body of pancreas	Spatial entity of male uncinate process of the pancreas
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_body_of_pancreas	UBERON:0001150	UBERON:0001069	body of pancreas	Spatial entity of male head of pancreas
+http://purl.org/ccf/latest/ccf.owl#VHMPancreas	http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_uncinate_process_of_the_pancreas	UBERON:0010373	UBERON:0001069	uncinate process of pancreas	Spatial entity of male head of pancreas

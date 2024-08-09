@@ -11,63 +11,111 @@ relationships:
 
 
 data:
-  - name: f-large-intestine
-    version: v1.1
-    filename: tests/f-large-intestine-ref-organ.csv
-  - name: f-main-bronchus
-    version: v1.1
-    filename: tests/f-main-bronchus-ref-organ.csv
-  - name: f-uterus
-    version: v1.1
-    filename: tests/f-uterus-ref-organ.csv
-  - name: m-brain
-    version: v1.1
-    filename: tests/m-brain-ref-organ.csv
-  - name: m-colon
-    version: v1.1
-    filename: tests/m-colon-ref-organ.csv
-  - name: m-heart
-    version: v1.1
-    filename: tests/m-heart-ref-organ.csv
-  - name: m-larynx
-    version: v1.1
-    filename: tests/m-larynx-ref-organ.csv
-  - name: m-left-kidney
-    version: v1.1
-    filename: tests/m-left-kidney-ref-organ.csv
-  - name: m-liver
-    version: v1.1
-    filename: tests/m-liver-ref-organ.csv
-  - name: m-lung
-    version: v1.1
-    filename: tests/m-lung-ref-organ.csv
-  - name: m-lymph-node
-    version: v1.1
-    filename: tests/m-lymph-node-ref-organ.csv
-  - name: m-pancreas
-    version: v1.1
-    filename: tests/m-pancreas-ref-organ.csv
-  - name: m-pelvis
-    version: v1.1
-    filename: tests/m-pelvis-ref-organ.csv
-  - name: m-prostate
-    version: v1.1
-    filename: tests/m-prostate-ref-organ.csv
-  - name: m-right-kidney
-    version: v1.1
-    filename: tests/m-right-kidney-ref-organ.csv
-  - name: m-small-intestine
-    version: v1.1
-    filename: tests/m-small-intestine-ref-organ.csv
-  - name: m-spinal-cord
-    version: v1.1
-    filename: tests/m-spinal-cord-ref-organ.csv
-  - name: m-thymus
-    version: v1.1
-    filename: tests/m-thymus-ref-organ.csv
-  - name: m-trachea
-    version: v1.1
-    filename: tests/m-trachea-ref-organ.csv
-  - name: m-urinary-bladder
-    version: v1.1
-    filename: tests/m-urinary-bladder-ref-organ.csv
+- filename: tests/VHFAllenBrain-ref-organ.csv
+  name: VHFAllenBrain
+  version: v2.1
+- filename: tests/VHFBloodVasculature-ref-organ.csv
+  name: VHFBloodVasculature
+  version: v2.1
+- filename: tests/VHFHeartV1.1-ref-organ.csv
+  name: VHFHeartV1.1
+  version: v2.1
+- filename: tests/VHFLargeIntestine-ref-organ.csv
+  name: VHFLargeIntestine
+  version: v2.1
+- filename: tests/VHFLarynx-ref-organ.csv
+  name: VHFLarynx
+  version: v2.1
+- filename: tests/VHFLeftKidneyV1.1-ref-organ.csv
+  name: VHFLeftKidneyV1.1
+  version: v2.1
+- filename: tests/VHFLiver-ref-organ.csv
+  name: VHFLiver
+  version: v2.1
+- filename: tests/VHFLymphNode-ref-organ.csv
+  name: VHFLymphNode
+  version: v2.1
+- filename: tests/VHFMainBronchus-ref-organ.csv
+  name: VHFMainBronchus
+  version: v2.1
+- filename: tests/VHFPancreas-ref-organ.csv
+  name: VHFPancreas
+  version: v2.1
+- filename: tests/VHFPelvis-ref-organ.csv
+  name: VHFPelvis
+  version: v2.1
+- filename: tests/VHFPlacenta-ref-organ.csv
+  name: VHFPlacenta
+  version: v2.1
+- filename: tests/VHFRightKidneyV1.1-ref-organ.csv
+  name: VHFRightKidneyV1.1
+  version: v2.1
+- filename: tests/VHFRightMammaryGland-ref-organ.csv
+  name: VHFRightMammaryGland
+  version: v2.1
+- filename: tests/VHFSmallIntestine-ref-organ.csv
+  name: VHFSmallIntestine
+  version: v2.1
+- filename: tests/VHFSpinalCord-ref-organ.csv
+  name: VHFSpinalCord
+  version: v2.1
+- filename: tests/VHFThymusV1.1-ref-organ.csv
+  name: VHFThymusV1.1
+  version: v2.1
+- filename: tests/VHFUrinaryBladder-ref-organ.csv
+  name: VHFUrinaryBladder
+  version: v2.1
+- filename: tests/VHFUterus-ref-organ.csv
+  name: VHFUterus
+  version: v2.1
+- filename: tests/VHMAllenBrain-ref-organ.csv
+  name: VHMAllenBrain
+  version: v2.1
+- filename: tests/VHMBloodVasculature-ref-organ.csv
+  name: VHMBloodVasculature
+  version: v2.1
+- filename: tests/VHMColon-ref-organ.csv
+  name: VHMColon
+  version: v2.1
+- filename: tests/VHMHeart-ref-organ.csv
+  name: VHMHeart
+  version: v2.1
+- filename: tests/VHMLarynx-ref-organ.csv
+  name: VHMLarynx
+  version: v2.1
+- filename: tests/VHMLeftKidney-ref-organ.csv
+  name: VHMLeftKidney
+  version: v2.1
+- filename: tests/VHMLiver-ref-organ.csv
+  name: VHMLiver
+  version: v2.1
+- filename: tests/VHMLymphNode-ref-organ.csv
+  name: VHMLymphNode
+  version: v2.1
+- filename: tests/VHMPancreas-ref-organ.csv
+  name: VHMPancreas
+  version: v2.1
+- filename: tests/VHMPelvis-ref-organ.csv
+  name: VHMPelvis
+  version: v2.1
+- filename: tests/VHMProstate-ref-organ.csv
+  name: VHMProstate
+  version: v2.1
+- filename: tests/VHMRightKidney-ref-organ.csv
+  name: VHMRightKidney
+  version: v2.1
+- filename: tests/VHMSmallIntestine-ref-organ.csv
+  name: VHMSmallIntestine
+  version: v2.1
+- filename: tests/VHMSpinalCord-ref-organ.csv
+  name: VHMSpinalCord
+  version: v2.1
+- filename: tests/VHMThymus-ref-organ.csv
+  name: VHMThymus
+  version: v2.1
+- filename: tests/VHMTrachea-ref-organ.csv
+  name: VHMTrachea
+  version: v2.1
+- filename: tests/VHMUrinaryBladder-ref-organ.csv
+  name: VHMUrinaryBladder
+  version: v2.1

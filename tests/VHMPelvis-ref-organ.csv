@@ -1,0 +1,54 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMPelvis,UBERON:0001270,UBERON:0003690,Pelvis,Spatial entity of male sacrum
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMPelvis,UBERON:0001270,UBERON:0001439,Pelvis,Spatial entity of male ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMPelvis,UBERON:0001270,UBERON:0002483,Pelvis,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_sacrum,UBERON:0003690,UBERON:0001439,fused sacrum,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_sacrum,UBERON:0003690,UBERON:0001439,fused sacrum,Spatial entity of male ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_sacrum,UBERON:0003690,UBERON:0002483,fused sacrum,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_sacrum,UBERON:0003690,UBERON:0002483,fused sacrum,Spatial entity of male ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis,UBERON:0001275,UBERON:0001439,pubis,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis,UBERON:0001275,UBERON:0001439,pubis,Spatial entity of male pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis,UBERON:0001275,UBERON:0002483,pubis,Spatial entity of male pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis,UBERON:0001275,UBERON:0002483,pubis,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male pubis spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male pubis compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_pubis_spongy_bone_R,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium,UBERON:0001273,UBERON:0001439,ilium,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium,UBERON:0001273,UBERON:0003690,ilium,Spatial entity of male sacrum
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium,UBERON:0001273,UBERON:0001439,ilium,Spatial entity of male ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium,UBERON:0001273,UBERON:0002483,ilium,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium,UBERON:0001273,UBERON:0002483,ilium,Spatial entity of male ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone,UBERON:0001439,UBERON:0003690,compact bone tissue,Spatial entity of male sacrum
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone_L,UBERON:0001439,UBERON:0003690,compact bone tissue,Spatial entity of male sacrum
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ilium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone,UBERON:0002483,UBERON:0003690,trabecular bone tissue,Spatial entity of male sacrum
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone_R,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone_L,UBERON:0002483,UBERON:0003690,trabecular bone tissue,Spatial entity of male sacrum
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ilium_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ilium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium,UBERON:0001274,UBERON:0001439,ischium,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium,UBERON:0001274,UBERON:0002483,ischium,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium_compact_bone,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium_compact_bone_L,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium_compact_bone_R,UBERON:0001439,UBERON:0002483,compact bone tissue,Spatial entity of male ischium spongy bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium_spongy_bone,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium_spongy_bone_L,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone
+http://purl.org/ccf/latest/ccf.owl#VHMPelvis,http://purl.org/ccf/latest/ccf.owl#VHMaleOrgans_VH_M_ischium_spongy_bone_R,UBERON:0002483,UBERON:0001439,trabecular bone tissue,Spatial entity of male ischium compact bone

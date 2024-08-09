@@ -1,0 +1,15 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,UBERON:0001987,UBERON:0004027,Placenta,Spatial entity of female chorionic plate
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,UBERON:0001987,UBERON:0000305,Placenta,Spatial entity of female amnion
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_chorionic_plate,UBERON:0004027,UBERON:0000305,chorionic plate,Spatial entity of female amnion
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_amnion,UBERON:0000305,UBERON:0004027,amnion,Spatial entity of female chorionic plate
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_cord,UBERON:0002331,UBERON:0004027,umbilical cord,Spatial entity of female chorionic plate
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_cord,UBERON:0002331,UBERON:0000305,umbilical cord,Spatial entity of female amnion
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_artery_1,UBERON:0001310,UBERON:0004027,umbilical artery,Spatial entity of female chorionic plate
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_artery_1,UBERON:0001310,UBERON:0000305,umbilical artery,Spatial entity of female amnion
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_artery_2,UBERON:0001310,UBERON:0002331,umbilical artery,Spatial entity of female umbilical cord
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_artery_2,UBERON:0001310,UBERON:0004027,umbilical artery,Spatial entity of female chorionic plate
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_artery_2,UBERON:0001310,UBERON:0002066,umbilical artery,Spatial entity of female umbilical vein
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_artery_2,UBERON:0001310,UBERON:0000305,umbilical artery,Spatial entity of female amnion
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_vein,UBERON:0002066,UBERON:0004027,umbilical vein,Spatial entity of female chorionic plate
+http://purl.org/ccf/latest/ccf.owl#VHFPlacenta,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_umbilical_vein,UBERON:0002066,UBERON:0000305,umbilical vein,Spatial entity of female amnion

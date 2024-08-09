@@ -1,0 +1,5 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_duodenum	UBERON:0002114	UBERON:0002116	duodenum	Spatial entity of female ileum
+http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_duodenum	UBERON:0002114	UBERON:0002115	duodenum	Spatial entity of female jejenum
+http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_duodenal_ampulla	UBERON:0013644	UBERON:0002115	duodenal ampulla	Spatial entity of female jejenum
+http://purl.org/ccf/latest/ccf.owl#VHFSmallIntestine	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_jejenum	UBERON:0002115	UBERON:0002116	jejunum	Spatial entity of female ileum

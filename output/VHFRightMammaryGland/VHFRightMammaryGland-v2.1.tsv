@@ -1,0 +1,3 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_nipple_R	UBERON:0013773	UBERON:0011828	right nipple	Spatial entity of female right areolar tubercles
+http://purl.org/ccf/latest/ccf.owl#VHFRightMammaryGland	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_mammary_lobes_R	UBERON:0018140	UBERON:0015134	mammary lobe	Spatial entity of female right main lactiferous ducts

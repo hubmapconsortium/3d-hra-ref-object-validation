@@ -1,0 +1,4 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder,UBERON:0001255,UBERON:0006082,Urinary Bladder,Spatial entity of female fundus of urinary bladder base
+http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_trigone_of_urinary_bladder,UBERON:0001257,UBERON:0006082,trigone of urinary bladder,Spatial entity of female fundus of urinary bladder base
+http://purl.org/ccf/latest/ccf.owl#VHFUrinaryBladder,http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_trigone_of_urinary_bladder,UBERON:0001257,UBERON:0004230,trigone of urinary bladder,Spatial entity of female urinary bladder neck smooth muscle
