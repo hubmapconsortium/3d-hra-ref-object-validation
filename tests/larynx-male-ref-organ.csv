@@ -1,0 +1,3 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+https://purl.humanatlas.io/ref-organ/larynx-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/larynx-male/v1.1#VH_M_cricoid_cartilage,UBERON:0002375,UBERON:0001738,cricoid cartilage,thyroid cartilage
+https://purl.humanatlas.io/ref-organ/larynx-male/v1.1#primary,https://purl.humanatlas.io/ref-organ/larynx-male/v1.1#VH_M_thyroid_cartilage,UBERON:0001738,UBERON:0002375,thyroid cartilage,cricoid cartilage

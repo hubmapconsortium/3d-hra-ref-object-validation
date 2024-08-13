@@ -1,0 +1,5 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#primary,https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#VH_F_main_lactiferous_ducts_L,UBERON:0015134,UBERON:0013772,main lactiferous duct,left nipple
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#primary,https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#VH_F_nipple_L,UBERON:0013772,UBERON:0015134,left nipple,main lactiferous duct
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#primary,https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#VH_F_main_lactiferous_ducts_L,UBERON:0015134,UBERON:0018140,main lactiferous duct,mammary lobe
+https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#primary,https://purl.humanatlas.io/ref-organ/mammary-gland-female-left/v1.1#VH_F_mammary_lobes_L,UBERON:0018140,UBERON:0015134,mammary lobe,main lactiferous duct

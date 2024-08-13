@@ -1,0 +1,5 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_head_of_pancreas,UBERON:0001069,UBERON:0010373,head of pancreas,uncinate process of pancreas
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_ucinate_process1,UBERON:0010373,UBERON:0001069,uncinate process of pancreas,head of pancreas
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_body_of_pancreas,UBERON:0001150,UBERON:0001151,body of pancreas,tail of pancreas
+https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#primary,https://purl.humanatlas.io/ref-organ/pancreas-female/v1.3#VH_F_tail_of_pancreas,UBERON:0001151,UBERON:0001150,tail of pancreas,body of pancreas

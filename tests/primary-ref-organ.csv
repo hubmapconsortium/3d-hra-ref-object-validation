@@ -1,0 +1,5 @@
+user_olabel,user_slabel,o,s,olabel,slabel
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,UBERON:0000002,UBERON:0013760,uterine cervix,external cervical os
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_external_cervical_os,UBERON:0013760,UBERON:0000002,external cervical os,uterine cervix
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_cervix,UBERON:0000002,UBERON:0013759,uterine cervix,internal cervical os
+https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#primary,https://purl.humanatlas.io/ref-organ/uterus-female/v1.2#VH_F_internal_cervical_os,UBERON:0013759,UBERON:0000002,internal cervical os,uterine cervix
