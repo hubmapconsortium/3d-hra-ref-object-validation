@@ -1,0 +1,12 @@
+relationships:
+  sub_class_of: rdfs:subClassOf
+  part_of: BFO:0000050
+  connected_to: RO:0001025
+  connecting_branch_of: RO:0002252
+  has_part: BFO:0000051
+  continuous_with: RO:0002150
+  overlaps: RO:0002131
+  surrounds: RO:0002221
+  connects: RO:0002176
+
+

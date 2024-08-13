@@ -11,111 +11,232 @@ relationships:
 
 
 data:
-- filename: tests/VHFAllenBrain-ref-organ.csv
-  name: VHFAllenBrain
+- filename: tests/blood-vasculature-female-ref-organ.csv
+  name: blood-vasculature-female
   version: v2.1
-- filename: tests/VHFBloodVasculature-ref-organ.csv
-  name: VHFBloodVasculature
+- filename: tests/blood-vasculature-male-ref-organ.csv
+  name: blood-vasculature-male
   version: v2.1
-- filename: tests/VHFHeartV1.1-ref-organ.csv
-  name: VHFHeartV1.1
+- filename: tests/brain-female-ref-organ.csv
+  name: brain-female
   version: v2.1
-- filename: tests/VHFLargeIntestine-ref-organ.csv
-  name: VHFLargeIntestine
+- filename: tests/brain-male-ref-organ.csv
+  name: brain-male
   version: v2.1
-- filename: tests/VHFLarynx-ref-organ.csv
-  name: VHFLarynx
+- filename: tests/heart-female-ref-organ.csv
+  name: heart-female
   version: v2.1
-- filename: tests/VHFLeftKidneyV1.1-ref-organ.csv
-  name: VHFLeftKidneyV1.1
+- filename: tests/heart-male-ref-organ.csv
+  name: heart-male
   version: v2.1
-- filename: tests/VHFLiver-ref-organ.csv
-  name: VHFLiver
+- filename: tests/kidney-female-left-ref-organ.csv
+  name: kidney-female-left
   version: v2.1
-- filename: tests/VHFLymphNode-ref-organ.csv
-  name: VHFLymphNode
+- filename: tests/kidney-female-right-ref-organ.csv
+  name: kidney-female-right
   version: v2.1
-- filename: tests/VHFMainBronchus-ref-organ.csv
-  name: VHFMainBronchus
+- filename: tests/kidney-male-left-ref-organ.csv
+  name: kidney-male-left
   version: v2.1
-- filename: tests/VHFPancreas-ref-organ.csv
-  name: VHFPancreas
+- filename: tests/kidney-male-right-ref-organ.csv
+  name: kidney-male-right
   version: v2.1
-- filename: tests/VHFPelvis-ref-organ.csv
-  name: VHFPelvis
+- filename: tests/large-intestine-female-ref-organ.csv
+  name: large-intestine-female
   version: v2.1
-- filename: tests/VHFPlacenta-ref-organ.csv
-  name: VHFPlacenta
+- filename: tests/large-intestine-male-ref-organ.csv
+  name: large-intestine-male
   version: v2.1
-- filename: tests/VHFRightKidneyV1.1-ref-organ.csv
-  name: VHFRightKidneyV1.1
+- filename: tests/larynx-female-ref-organ.csv
+  name: larynx-female
   version: v2.1
-- filename: tests/VHFRightMammaryGland-ref-organ.csv
-  name: VHFRightMammaryGland
+- filename: tests/larynx-male-ref-organ.csv
+  name: larynx-male
   version: v2.1
-- filename: tests/VHFSmallIntestine-ref-organ.csv
-  name: VHFSmallIntestine
+- filename: tests/liver-female-ref-organ.csv
+  name: liver-female
   version: v2.1
-- filename: tests/VHFSpinalCord-ref-organ.csv
-  name: VHFSpinalCord
+- filename: tests/liver-male-ref-organ.csv
+  name: liver-male
   version: v2.1
-- filename: tests/VHFThymusV1.1-ref-organ.csv
-  name: VHFThymusV1.1
+- filename: tests/lung-female-ref-organ.csv
+  name: lung-female
   version: v2.1
-- filename: tests/VHFUrinaryBladder-ref-organ.csv
-  name: VHFUrinaryBladder
+- filename: tests/lung-male-ref-organ.csv
+  name: lung-male
   version: v2.1
-- filename: tests/VHFUterus-ref-organ.csv
-  name: VHFUterus
+- filename: tests/lymph-node-female-ref-organ.csv
+  name: lymph-node-female
   version: v2.1
-- filename: tests/VHMAllenBrain-ref-organ.csv
-  name: VHMAllenBrain
+- filename: tests/lymph-node-male-ref-organ.csv
+  name: lymph-node-male
   version: v2.1
-- filename: tests/VHMBloodVasculature-ref-organ.csv
-  name: VHMBloodVasculature
+- filename: tests/mammary-gland-female-left-ref-organ.csv
+  name: mammary-gland-female-left
   version: v2.1
-- filename: tests/VHMColon-ref-organ.csv
-  name: VHMColon
+- filename: tests/pancreas-female-ref-organ.csv
+  name: pancreas-female
   version: v2.1
-- filename: tests/VHMHeart-ref-organ.csv
-  name: VHMHeart
+- filename: tests/pancreas-male-ref-organ.csv
+  name: pancreas-male
   version: v2.1
-- filename: tests/VHMLarynx-ref-organ.csv
-  name: VHMLarynx
+- filename: tests/pelvis-female-ref-organ.csv
+  name: pelvis-female
   version: v2.1
-- filename: tests/VHMLeftKidney-ref-organ.csv
-  name: VHMLeftKidney
+- filename: tests/pelvis-male-ref-organ.csv
+  name: pelvis-male
   version: v2.1
-- filename: tests/VHMLiver-ref-organ.csv
-  name: VHMLiver
+- filename: tests/placenta-full-term-female-ref-organ.csv
+  name: placenta-full-term-female
   version: v2.1
-- filename: tests/VHMLymphNode-ref-organ.csv
-  name: VHMLymphNode
+- filename: tests/prostate-male-ref-organ.csv
+  name: prostate-male
   version: v2.1
-- filename: tests/VHMPancreas-ref-organ.csv
-  name: VHMPancreas
+- filename: tests/small-intestine-female-ref-organ.csv
+  name: small-intestine-female
   version: v2.1
-- filename: tests/VHMPelvis-ref-organ.csv
-  name: VHMPelvis
+- filename: tests/small-intestine-male-ref-organ.csv
+  name: small-intestine-male
   version: v2.1
-- filename: tests/VHMProstate-ref-organ.csv
-  name: VHMProstate
+- filename: tests/spinal-cord-female-ref-organ.csv
+  name: spinal-cord-female
   version: v2.1
-- filename: tests/VHMRightKidney-ref-organ.csv
-  name: VHMRightKidney
+- filename: tests/spinal-cord-male-ref-organ.csv
+  name: spinal-cord-male
   version: v2.1
-- filename: tests/VHMSmallIntestine-ref-organ.csv
-  name: VHMSmallIntestine
+- filename: tests/thymus-female-ref-organ.csv
+  name: thymus-female
   version: v2.1
-- filename: tests/VHMSpinalCord-ref-organ.csv
-  name: VHMSpinalCord
+- filename: tests/thymus-male-ref-organ.csv
+  name: thymus-male
   version: v2.1
-- filename: tests/VHMThymus-ref-organ.csv
-  name: VHMThymus
+- filename: tests/trachea-female-ref-organ.csv
+  name: trachea-female
   version: v2.1
-- filename: tests/VHMTrachea-ref-organ.csv
-  name: VHMTrachea
+- filename: tests/trachea-male-ref-organ.csv
+  name: trachea-male
   version: v2.1
-- filename: tests/VHMUrinaryBladder-ref-organ.csv
-  name: VHMUrinaryBladder
+- filename: tests/urinary-bladder-female-ref-organ.csv
+  name: urinary-bladder-female
+  version: v2.1
+- filename: tests/urinary-bladder-male-ref-organ.csv
+  name: urinary-bladder-male
+  version: v2.1
+- filename: tests/uterus-female-ref-organ.csv
+  name: uterus-female
+  version: v2.1
+data:
+- filename: tests/blood-vasculature-female-ref-organ.csv
+  name: blood-vasculature-female
+  version: v2.1
+- filename: tests/blood-vasculature-male-ref-organ.csv
+  name: blood-vasculature-male
+  version: v2.1
+- filename: tests/brain-female-ref-organ.csv
+  name: brain-female
+  version: v2.1
+- filename: tests/brain-male-ref-organ.csv
+  name: brain-male
+  version: v2.1
+- filename: tests/heart-female-ref-organ.csv
+  name: heart-female
+  version: v2.1
+- filename: tests/heart-male-ref-organ.csv
+  name: heart-male
+  version: v2.1
+- filename: tests/kidney-female-left-ref-organ.csv
+  name: kidney-female-left
+  version: v2.1
+- filename: tests/kidney-female-right-ref-organ.csv
+  name: kidney-female-right
+  version: v2.1
+- filename: tests/kidney-male-left-ref-organ.csv
+  name: kidney-male-left
+  version: v2.1
+- filename: tests/kidney-male-right-ref-organ.csv
+  name: kidney-male-right
+  version: v2.1
+- filename: tests/large-intestine-female-ref-organ.csv
+  name: large-intestine-female
+  version: v2.1
+- filename: tests/large-intestine-male-ref-organ.csv
+  name: large-intestine-male
+  version: v2.1
+- filename: tests/larynx-female-ref-organ.csv
+  name: larynx-female
+  version: v2.1
+- filename: tests/larynx-male-ref-organ.csv
+  name: larynx-male
+  version: v2.1
+- filename: tests/liver-female-ref-organ.csv
+  name: liver-female
+  version: v2.1
+- filename: tests/liver-male-ref-organ.csv
+  name: liver-male
+  version: v2.1
+- filename: tests/lung-female-ref-organ.csv
+  name: lung-female
+  version: v2.1
+- filename: tests/lung-male-ref-organ.csv
+  name: lung-male
+  version: v2.1
+- filename: tests/lymph-node-female-ref-organ.csv
+  name: lymph-node-female
+  version: v2.1
+- filename: tests/lymph-node-male-ref-organ.csv
+  name: lymph-node-male
+  version: v2.1
+- filename: tests/mammary-gland-female-left-ref-organ.csv
+  name: mammary-gland-female-left
+  version: v2.1
+- filename: tests/pancreas-female-ref-organ.csv
+  name: pancreas-female
+  version: v2.1
+- filename: tests/pancreas-male-ref-organ.csv
+  name: pancreas-male
+  version: v2.1
+- filename: tests/pelvis-female-ref-organ.csv
+  name: pelvis-female
+  version: v2.1
+- filename: tests/pelvis-male-ref-organ.csv
+  name: pelvis-male
+  version: v2.1
+- filename: tests/placenta-full-term-female-ref-organ.csv
+  name: placenta-full-term-female
+  version: v2.1
+- filename: tests/prostate-male-ref-organ.csv
+  name: prostate-male
+  version: v2.1
+- filename: tests/small-intestine-female-ref-organ.csv
+  name: small-intestine-female
+  version: v2.1
+- filename: tests/small-intestine-male-ref-organ.csv
+  name: small-intestine-male
+  version: v2.1
+- filename: tests/spinal-cord-female-ref-organ.csv
+  name: spinal-cord-female
+  version: v2.1
+- filename: tests/spinal-cord-male-ref-organ.csv
+  name: spinal-cord-male
+  version: v2.1
+- filename: tests/thymus-female-ref-organ.csv
+  name: thymus-female
+  version: v2.1
+- filename: tests/thymus-male-ref-organ.csv
+  name: thymus-male
+  version: v2.1
+- filename: tests/trachea-female-ref-organ.csv
+  name: trachea-female
+  version: v2.1
+- filename: tests/trachea-male-ref-organ.csv
+  name: trachea-male
+  version: v2.1
+- filename: tests/urinary-bladder-female-ref-organ.csv
+  name: urinary-bladder-female
+  version: v2.1
+- filename: tests/urinary-bladder-male-ref-organ.csv
+  name: urinary-bladder-male
+  version: v2.1
+- filename: tests/uterus-female-ref-organ.csv
+  name: uterus-female
   version: v2.1
