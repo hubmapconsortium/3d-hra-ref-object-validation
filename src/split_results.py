@@ -10,18 +10,19 @@ def compress_uri(uri):
 
 
 # Read the CSV file
-input_file = 'tests/ref-organ-relations.csv'
+input_file = 'tests/ref-organ-relations-full.csv'
 df = pd.read_csv(input_file)
 # Change column names
 df.columns = ['user_olabel', 'user_slabel', 'o', 's', 'olabel', 'slabel']
-df.dropna(subset=['s', 'o'], inplace=True)
-df['s'] = df['s'].apply(compress_uri)
-df['o'] = df['o'].apply(compress_uri)
+df = df[~df['s'].str.contains('FMA') & ~df['o'].str.contains('FMA')]
+# df.dropna(subset=['s', 'o'], inplace=True)
+# df['s'] = df['s'].apply(compress_uri)
+# df['o'] = df['o'].apply(compress_uri)
 
 data = []
 # Group by 'ref_organ_part' and write each group to a separate CSV file
 for ref_organ, group in df.groupby('user_olabel'):
-    name_file = ref_organ.split('#')[1]
+    name_file = ref_organ.split('#')[0].split('/')[-2]
     # output_file = f'{name_file}.csv'
     group.to_csv(f"tests/{name_file}-ref-organ.csv", index=False)
     data.append(
