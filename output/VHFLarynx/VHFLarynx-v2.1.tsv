@@ -1,6 +1,0 @@
-user_olabel	user_slabel	o	s	olabel	slabel
-http://purl.org/ccf/latest/ccf.owl#VHFLarynx	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_arytenoid_cartilage	UBERON:0001740	UBERON:0001738	arytenoid cartilage	Spatial entity of female thyroid cartilage
-http://purl.org/ccf/latest/ccf.owl#VHFLarynx	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_arytenoid_cartilage	UBERON:0001740	UBERON:0002375	arytenoid cartilage	Spatial entity of female cricoid cartilage
-http://purl.org/ccf/latest/ccf.owl#VHFLarynx	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_epiglotic_cartilage	UBERON:0001742	UBERON:0001738	epiglottic cartilage	Spatial entity of female thyroid cartilage
-http://purl.org/ccf/latest/ccf.owl#VHFLarynx	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_epiglotic_cartilage	UBERON:0001742	UBERON:0002375	epiglottic cartilage	Spatial entity of female cricoid cartilage
-http://purl.org/ccf/latest/ccf.owl#VHFLarynx	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_thyroid_cartilage	UBERON:0001738	UBERON:0002375	thyroid cartilage	Spatial entity of female cricoid cartilage

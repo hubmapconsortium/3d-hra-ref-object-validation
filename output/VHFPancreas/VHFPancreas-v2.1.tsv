@@ -1,3 +1,0 @@
-user_olabel	user_slabel	o	s	olabel	slabel
-http://purl.org/ccf/latest/ccf.owl#VHFPancreas	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_body_of_pancreas	UBERON:0001150	UBERON:0010373	body of pancreas	Spatial entity of female ucinate process 1
-http://purl.org/ccf/latest/ccf.owl#VHFPancreas	http://purl.org/ccf/latest/ccf.owl#VHFemaleOrgans_VH_F_body_of_pancreas	UBERON:0001150	UBERON:0001069	body of pancreas	Spatial entity of female head of pancreas
