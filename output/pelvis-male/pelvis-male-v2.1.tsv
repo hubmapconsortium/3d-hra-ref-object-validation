@@ -1,0 +1,11 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_spongy_bone_R	UBERON:0002483	UBERON:0001439	trabecular bone tissue	compact bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_compact_bone_R	UBERON:0001439	UBERON:0002483	compact bone tissue	trabecular bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ilium_compact_bone_R	UBERON:0001439	UBERON:0002483	compact bone tissue	trabecular bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ilium_spongy_bone_R	UBERON:0002483	UBERON:0001439	trabecular bone tissue	compact bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_compact_bone_R	UBERON:0001439	UBERON:0002483	compact bone tissue	trabecular bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_spongy_bone_R	UBERON:0002483	UBERON:0001439	trabecular bone tissue	compact bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_compact_bone_R	UBERON:0001439	UBERON:0002483	compact bone tissue	trabecular bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_spongy_bone_R	UBERON:0002483	UBERON:0001439	trabecular bone tissue	compact bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_ischium_compact_bone_R	UBERON:0001439	UBERON:0002483	compact bone tissue	trabecular bone tissue
+https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#primary	https://purl.humanatlas.io/ref-organ/pelvis-male/v1.3#VH_M_pubis_spongy_bone_R	UBERON:0002483	UBERON:0001439	trabecular bone tissue	compact bone tissue

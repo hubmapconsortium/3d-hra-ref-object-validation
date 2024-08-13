@@ -1,0 +1,15 @@
+user_olabel	user_slabel	o	s	olabel	slabel
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_bronchus	UBERON:0002185	UBERON:0004888	bronchus	right lung hilus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_R	UBERON:0004888	UBERON:0002185	right lung hilus	bronchus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_lower_L	UBERON:0004887	UBERON:0012066	left lung hilus	lobar bronchus of left lung lower lobe
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_left_inferior_lobar_bronchus	UBERON:0012066	UBERON:0004887	lobar bronchus of left lung lower lobe	left lung hilus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_bronchus	UBERON:0002185	UBERON:0004888	bronchus	right lung hilus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_lower_R	UBERON:0004888	UBERON:0002185	right lung hilus	bronchus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_upper_L	UBERON:0004887	UBERON:0012065	left lung hilus	lobar bronchus of left lung upper lobe
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0004887	lobar bronchus of left lung upper lobe	left lung hilus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_L	UBERON:0004887	UBERON:0012066	left lung hilus	lobar bronchus of left lung lower lobe
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_left_inferior_lobar_bronchus	UBERON:0012066	UBERON:0004887	lobar bronchus of left lung lower lobe	left lung hilus
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_left_inferior_lobar_bronchus	UBERON:0012066	UBERON:0012065	lobar bronchus of left lung lower lobe	lobar bronchus of left lung upper lobe
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0012066	lobar bronchus of left lung upper lobe	lobar bronchus of left lung lower lobe
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_hilum_L	UBERON:0004887	UBERON:0012065	left lung hilus	lobar bronchus of left lung upper lobe
+https://purl.humanatlas.io/ref-organ/lung-male/v1.4#primary	https://purl.humanatlas.io/ref-organ/lung-male/v1.4#VH_M_left_superior_lobar_bronchus	UBERON:0012065	UBERON:0004887	lobar bronchus of left lung upper lobe	left lung hilus
